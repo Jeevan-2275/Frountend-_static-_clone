@@ -1,0 +1,53 @@
+
+        .logo{
+margin-left: 1100px; 
+        }
+        h1{
+            margin-left: 100px;
+            font-size: 43px;
+            text-shadow: 2px 2px 5px black;
+            
+        }
+        h2{
+            margin-left: 100px;
+            color: grey;
+            margin-top: -15px;
+        }
+        body{
+            background-image: url("backgroud.png");
+            background-repeat: no-repeat;
+            background-size: 100%;
+           
+        
+        }
+
+        
+         table,td,th,tr{
+          
+            background-color: white;
+            border-spacing: 0px;
+            
+            
+        } 
+        .align{
+            text-align: justify;
+            color: grey;
+        }
+        .orange{
+            background-color: orangered;
+           border: 2px solid orangered;
+        }
+         .Batsman{
+            color: rgb(61, 159, 219);
+         }
+    td{
+        padding: 9px; 
+    }
+    td{
+        border-bottom: 2px solid grey;
+    }
+    table{
+        margin-left: 100px;
+    }
+        
+    
